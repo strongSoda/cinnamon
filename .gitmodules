@@ -1,0 +1,4 @@
+[submodule "cinnamon-vscode"]
+	path = cinnamon-vscode
+	url = https://github.com/strongSoda/cinnamon-vscode
+	branch = master
