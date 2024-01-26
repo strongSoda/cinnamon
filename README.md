@@ -10,7 +10,7 @@ Dark Syntax Color theme optimized for accessibility.
 
 ## Platforms
 
-New Moon is available for:
+Cinnamon is available for:
 
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=imran.cinnamon)
 
